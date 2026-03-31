@@ -7,5 +7,4 @@ Atualmente, estou em uma imersão voltada à compreensão dos **processos de des
 
 Busco evoluir tecnicamente por meio de estudos consistentes, projetos práticos e análise de problemas reais, com o objetivo de atuar de forma sólida na área de **desenvolvimento e engenharia de software**.
 
-Também compartilho minha rotina de estudos, aprendizados e processos seletivos no meu canal da Twitch:  
-👉 [ribeirocodafofo](https://www.twitch.tv/ribeirocodafofo)
+Também compartilho minha rotina de estudos, aprendizados e processos seletivos no meu canal da Twitch:  [ribeirocodafofo](https://www.twitch.tv/ribeirocodafofo)
