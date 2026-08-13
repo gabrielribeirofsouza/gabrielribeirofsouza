@@ -1,10 +1,36 @@
-# 💻 Gabriel Ribeiro
-**`Universitário`**
+# Gabriel Ribeiro
 
-Graduando em **Análise e Desenvolvimento de Sistemas** pela **UNINASSAU**, com sólida base em **Estruturas de Dados e Algoritmos (DSA)** e foco no desenvolvimento do pensamento lógico e analítico para resolução de problemas.
+**Desenvolvedor Backend Júnior | Go | APIs REST | PostgreSQL**
 
-Atualmente, estou em uma imersão voltada à compreensão dos **processos de desenvolvimento de software**, incluindo fundamentos de **engenharia de software**, **arquitetura**, organização de código, boas práticas e fluxo de construção de sistemas do início ao fim.
+Atuo profissionalmente no desenvolvimento e na evolução de sistemas corporativos em **Go**, trabalhando com **APIs REST**, **PostgreSQL**, integrações e regras de negócio em produção.
 
-Busco evoluir tecnicamente por meio de estudos consistentes, projetos práticos e análise de problemas reais, com o objetivo de atuar de forma sólida na área de **desenvolvimento e engenharia de software**.
+Na BBG Telecom, desenvolvi a funcionalidade de banco de horas da intranet utilizada por mais de 140 colaboradores. A solução envolve integração com o PontoMais, processamento diário em Python, histórico, logs, transações, testes unitários e controle de acesso baseado em papéis (RBAC) integrado ao Active Directory.
 
-Também compartilho minha rotina de estudos, aprendizados e processos seletivos no meu canal da Twitch: [ribeirocodafofo](https://www.twitch.tv/ribeirocodafofo)
+## Tecnologias principais
+
+- **Backend:** Go, Python, APIs REST
+- **Dados:** PostgreSQL, SQL, migrations e transações
+- **Infraestrutura:** Docker, Linux e Git
+- **Engenharia:** arquitetura em camadas, testes unitários, logging e integração de sistemas
+
+## Projetos em destaque
+
+### [Gestão de Pedidos API](https://github.com/gabrielribeirofsouza/gestao-de-pedidos-api)
+
+API REST em Go para gestão de pedidos e estoque, com PostgreSQL, Docker, testes unitários e transações atômicas.
+
+### [Organizador Automático de Arquivos](https://github.com/gabrielribeirofsouza/automatic-organization)
+
+Serviço em Python para Windows que monitora arquivos e os organiza por extensão, com tratamento de caminhos, permissões e execução em segundo plano.
+
+### [Migrador de Planilhas](https://github.com/gabrielribeirofsouza/-automated-data-migration)
+
+Automação em Python para leitura, validação e migração de dados CSV e XLSX.
+
+## Formação
+
+Tecnólogo em **Análise e Desenvolvimento de Sistemas** na UNINASSAU — conclusão prevista para dezembro de 2026.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/gabrielribeirofsouza/)
